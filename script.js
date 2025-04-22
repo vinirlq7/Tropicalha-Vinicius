@@ -13,8 +13,8 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
     
-    const aumentaFonteBotao = document .getElementById('aumentar-fonte');
-    const diminuiFonteBotao = document .getElementById('diminuir-fonte');
+    const aumentaFonteBotao = document.getElementById('aumentar-fonte');
+    const diminuiFonteBotao = document.getElementById('diminuir-fonte');
     
     const alternaConstraste = document.getElementById('alterna-contraste');
 
