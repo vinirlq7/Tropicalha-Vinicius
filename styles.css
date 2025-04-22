@@ -76,6 +76,7 @@ section {
     text-shadow: -5px 5px var(--laranja-claro);
 }
 
+
 #tropicalia {
     position: relative;
     padding-top: 5rem;
@@ -86,6 +87,7 @@ section {
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
+
 
 #tropicalia .container {
     display: flex;
