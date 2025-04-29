@@ -32,3 +32,8 @@ document.addEventListener('DOMContentLoaded', function(){
         document.body.classList.toggle('alto-contraste');
     })
 });
+
+ScroollReveal().Reveal('#inicio',{delay: 500});
+ScroollReveal().Reveal('#galeria',{delay: 500});
+ScroollReveal().Reveal('#tropicalia',{delay: 500});
+ScroollReveal().Reveal('#contato',{delay: 500});
