@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function(){
     })
 });
 
-ScroollReveal().Reveal('#inicio',{delay: 500});
-ScroollReveal().Reveal('#galeria',{delay: 500});
-ScroollReveal().Reveal('#tropicalia',{delay: 500});
-ScroollReveal().Reveal('#contato',{delay: 500});
+ScroollReveal().reveal('#inicio',{delay: 500});
+ScroollReveal().reveal('#galeria',{delay: 500});
+ScroollReveal().reveal('#tropicalia',{delay: 500});
+ScroollReveal().reveal('#contato',{delay: 500});
