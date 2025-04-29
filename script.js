@@ -11,8 +11,6 @@ document.addEventListener('DOMContentLoaded', function(){
     const botaoSelecionado = botaoDeAcessibilidade.getAttribute('aria-expanded')==='true';
     botaoDeAcessibilidade.setAttribute('aria-expanded', !botaoSelecionado);
 
-
-    
     const aumentaFonteBotao = document.getElementById('aumentar-fonte');
     const diminuiFonteBotao = document.getElementById('diminuir-fonte');
     
